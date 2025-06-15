@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">womenapp</string> <string-array name="emergency_messages_array">
+    <item>I need help, please come quick...</item>
+    <item>I am in danger. Send help!</item>
+    <item>Call me back urgently.</item>
+    <item>I am being followed. Alert police.</item>
+    <item>SOS: Urgent assistance needed!</item>
+</string-array>
+</resources>

@@ -1,0 +1,9 @@
+<!-- res/drawable/button_blue_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape><solid android:color="#345ED1"/><corners android:radius="8dp"/></shape>
+    </item>
+    <item>
+        <shape><solid android:color="#5677FC"/><corners android:radius="8dp"/></shape>
+    </item>
+</selector>
