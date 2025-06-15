@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_spinner_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_sos.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_call_selector.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_call_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo1_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo2.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo2.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_phone_circle.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_phone_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_logo1.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\logo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_logo1_round.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\logo1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo1.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo1.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo1_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_img.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo1_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_bg3.jpeg.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\bg3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo2_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_logo2.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\logo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\layout_chatbotactivity.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\layout\\chatbotactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_record_stop.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_record_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_chat_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_chat_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo2_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_sos_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_sos_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo2_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo2_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_bg2.jpeg.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\bg2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_user_message_bubble.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\user_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo1.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo1.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo2_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo1_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo2_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo1.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo1.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_call_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_call_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_feature_button_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_feature_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo1_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_bot_message_bubble.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\bot_message_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo2_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo2.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo2.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo1_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_logo.jpeg.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_bg1.jpeg.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\bg1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo2.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo2.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_corner_button.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_corner_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo2_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_button_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_bg_image.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\bg_image.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\layout_activity_period_tracker.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\layout\\activity_period_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_record_start.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_record_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_logo2.jpeg.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\logo2.jpeg"
+    },
+    {
+        "merged": "com.example.womenapp-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.womenapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_camera_circle.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_camera_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_chatbot_circle.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_chatbot_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_logo2_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\logo2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo1_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_purple_button_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_purple_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_circular_progress.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\circular_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_logo1_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\logo1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo2.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo2.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-anydpi-v26_logo2_round.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-anydpi-v26\\logo2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo1_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_button_bg.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_record.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\record.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo1_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo2_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\layout_livelocation.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\layout\\livelocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo1_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_blue_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_blue_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_stop_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_stop_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_ic_sos_alert.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\ic_sos_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo1.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo1.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo1.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo1.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-hdpi_logo2_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-hdpi\\logo2_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_circular_button_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_circular_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_activity_period_tracker.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\activity_period_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo2.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo2.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_logo_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_progress_bar_custom.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\progress_bar_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\layout_item_message_bot.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\layout\\item_message_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_button_start_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\button_start_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_logo1.jpeg.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\logo1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_red_button_background.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_red_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-xxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-xxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\layout_item_message_user.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\layout\\item_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\mipmap-mdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\mipmap-mdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-debug-32:\\drawable_rounded_button_background_red.xml.flat",
+        "source": "C:\\Users\\SHUBHAM\\.gradle\\daemon\\8.11.1\\com.example.womenapp-main-34:\\drawable\\rounded_button_background_red.xml"
+    }
+]
